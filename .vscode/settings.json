@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Projekt Dammbruch.sln"
+    "dotnet.defaultSolution": "Projekt-Dammbruch.sln"
 }
